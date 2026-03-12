@@ -1,0 +1,7 @@
+body {
+    background-color: white;
+    color: red;
+    font-family: Arial, sans-serif;
+    interpolate-size: 1.5em;
+    bleed: 0.5em;
+}
